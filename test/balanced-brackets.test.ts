@@ -25,7 +25,7 @@ test('brackets have odd number of bracket is not valid', () => {
     expect(balancedBrackets('[[]')).toBe('KO')
 })
 
-test('no symmetrical brackets is valid', () => {
+test('symmetrical brackets is valid', () => {
     expect(balancedBrackets('[[]]')).toBe('OK')
 })
 
