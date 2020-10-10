@@ -1,4 +1,4 @@
-# BalancedBraketsKata
+# Balanced BraketsKata
 
 ## The Kata
 

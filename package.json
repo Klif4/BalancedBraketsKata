@@ -1,0 +1,27 @@
+{
+  "name": "balancedbraketskata",
+  "version": "1.0.0",
+  "description": "## The Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klif4/BalancedBraketsKata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klif4/BalancedBraketsKata/issues"
+  },
+  "homepage": "https://github.com/Klif4/BalancedBraketsKata#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "@types/node": "^14.11.8",
+    "jest": "^26.5.2",
+    "ts-jest": "^26.4.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
