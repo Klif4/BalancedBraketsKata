@@ -1,3 +1,6 @@
 export function balancedBrackets(brackets: string) {
-    return '';
+    if (brackets === '') {
+        return '';
+    }
+    return 'OK'
 }
