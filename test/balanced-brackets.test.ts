@@ -1,6 +1,4 @@
-function balancedBrackets(brackets: string) {
-    return '';
-}
+import {balancedBrackets} from "../src/balanced-brackets";
 
 test('empty brackets', () => {
     expect(balancedBrackets('')).toBe('')
